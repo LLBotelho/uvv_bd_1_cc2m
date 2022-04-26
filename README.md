@@ -8,3 +8,8 @@
 
 ***Professor: Abrantes Araujo Silva Filho***
 ---
+**-Contém o arquivo do diagrama elmasri.architect e seu Markdown**
+
+**-Contém o script do PosgreSQL e seu Markdown**
+
+**-Contém o script do MariaDB e seu Markdown**
