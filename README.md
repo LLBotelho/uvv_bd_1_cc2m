@@ -13,3 +13,7 @@
 **-Contém o script do PosgreSQL e seu Markdown**
 
 **-Contém o script do MariaDB e seu Markdown**
+
+# Atividade P.set 2
+---
+**-Contém o arquivo do script do pset 2 e seu Markdown**
